@@ -1,0 +1,17 @@
+/* Веб-шрифт Lato */ 
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+/* Локальный веб-шрифт Georgia (с) */ 
+@font-face {
+	font-family: 'Georgia';
+	src: url('../fonts/Georgia-Bold.woff') format('woff');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Georgia';
+	src: url('../fonts/Georgia.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
